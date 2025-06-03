@@ -1,16 +1,16 @@
 
-<a href="https://www.youtube.com/watch?v=BW2H0es4s58&list=PL67b5wgxuUtAP2ckCBi-ryBaZnRZi2nTj&index=6" target="_blank">
+<a href="https://webx-webify.netlify.app/" target="_blank">
   <img src="./assets/thumbnail-1.png" alt="Thumbnail"/>
 </a>
 
 
 ---
-## Introduction: 
+## Description:
 #### 🔥 AI Landing Page with HTML, CSS & JavaScript | Modern UI, Animations & Parallax Effects!
 
 #### 🔥 Modern AI Landing Page with HTML, CSS & JavaScript 🚀 | Responsive & Animate
 
-#### 💻 What is done:
+#### 🧑🏻‍💻 What is done:
 #### ✅ Responsive Web Design for all screen sizes 📱💻
 #### ✅ Smooth Scroll Animations for an engaging user journey🎬
 #### ✅ Parallax Effects responding to mouse movement for immersive visuals 🖱️
@@ -18,3 +18,5 @@
 #### ✅ Gradient Borders & Hover Effects for a sleek, high-quality UI 🎨
 #### ✅ Optimized Sign-Up Page with smooth, refined animations 📝
 
+#### 💻 Tools & Technologies:
+#### ✅ HTML, CSS & JavaScript
