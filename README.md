@@ -1,6 +1,6 @@
 
 <a href="https://webx-webify.netlify.app/" target="_blank">
-  <img src="/assets/thumbnail-1.png" alt="Thumbnail"/>
+  <img src="assets/thumbnail.png" alt="Thumbnail"/>
 </a>
 
 
