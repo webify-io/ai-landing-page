@@ -6,9 +6,7 @@
 
 ---
 ## Description:
-#### 🔥 AI Landing Page with HTML, CSS & JavaScript | Modern UI, Animations & Parallax Effects!
-
-#### 🔥 Modern AI Landing Page with HTML, CSS & JavaScript 🚀 | Responsive & Animate
+#### 🔥 Modern AI Landing Page with HTML, CSS & JavaScript | Modern UI, Animations & Parallax Effects!
 
 #### 🧑🏻‍💻 What is done:
 #### ✅ Responsive Web Design for all screen sizes 📱💻
